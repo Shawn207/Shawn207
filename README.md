@@ -23,8 +23,8 @@ My research is about how robots decide where to look and where to go: decision-m
 
 | Project | What it is | Links |
 | --- | --- | --- |
-| **POSE**: pose-aware semantic exploration | A legged robot pitches and rolls its body to see more of each object, and a vision-language model skips redundant inspection visits. Submitted to ICRA 2027. | [Project page](https://shawn207.github.io/projects/pose/) |
-| **SEDEM**: semantic exploration and dense mapping | A Spot with a panoramic LiDAR-camera rig explores unknown spaces, finds target objects, and builds a dense semantic map from multiple views. RA-L 2025, presented at IROS 2026. | [Project page](https://shawn207.github.io/projects/sedem/) · [Code](https://github.com/Shawn207/SEDEM) · [arXiv](https://arxiv.org/abs/2505.22880) |
+| **POSE**: pose-aware semantic exploration | A legged robot (Boston Dynamic Spot) pitches and rolls its body to see more of each object, and a vision-language model skips redundant inspection visits. Submitted to ICRA 2027. | [Project page](https://shawn207.github.io/projects/pose/) |
+| **SEDEM**: semantic exploration and dense mapping | A Boston Dynamic Spot with a panoramic LiDAR-camera rig explores unknown spaces, finds target objects, and builds a dense semantic map from multiple views. RA-L 2025, presented at IROS 2026. | [Project page](https://shawn207.github.io/projects/sedem/) · [Code](https://github.com/Shawn207/SEDEM) · [arXiv](https://arxiv.org/abs/2505.22880) |
 | **Dynamic obstacle perception and mapping for UAVs** | Lightweight RGB-D detection and tracking of moving obstacles, and a mapping system that predicts their motion for collision-free flight on a Jetson Xavier. RA-L 2024 and ICRA 2023. | [Project page](https://shawn207.github.io/projects/dodt/) · [Detector](https://github.com/Shawn207/onboard_detector) · [Mapping](https://github.com/Shawn207/map_manager_pub) |
 
 ### My skill set
