@@ -11,7 +11,7 @@ Ph.D. student in Mechanical Engineering at [Carnegie Mellon University](https://
 
 My research is about how robots decide where to look and where to go: decision-making and planning for single robots and multi-robot teams, active perception, and semantic mapping, validated on a Boston Dynamics Spot and custom UAVs. Lately I am connecting these with vision-language models for embodied AI.
 
-🔎 Looking for **2027 internships** in robotics, embodied AI, and autonomous driving.
+🔎 Looking for **2027 internships** in robotics, Physical AI, embodied AI, and autonomous driving.
 
 🌐 [Homepage](https://shawn207.github.io) · 📄 [CV](https://shawn207.github.io/Xiaoyang_Zhan_CV.pdf) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=TfJP6ZMAAAAJ&hl=en) · 💼 [LinkedIn](https://www.linkedin.com/in/zhan-xiaoyang-5569341b9/en) · ✉️ xzhan2@andrew.cmu.edu
 
